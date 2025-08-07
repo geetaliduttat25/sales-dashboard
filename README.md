@@ -1,2 +1,0 @@
-# sales-dashboard
-financial dataset
